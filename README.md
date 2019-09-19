@@ -1,3 +1,9 @@
+
+
+https://www.cyberciti.biz/faq/how-to-install-and-configure-latest-version-of-ansible-on-ubuntu-linux/
+
+
+
 Ubuntu 16.04 CIS STIG
 ================
 
