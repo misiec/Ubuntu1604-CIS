@@ -319,7 +319,7 @@ ubuntu1604cis_selinux_pol: targeted
 ubuntu1604cis_gui: false
 
 # Set to 'true' if X Windows is needed in your environment
-ubuntu1604cis_xwindows_required: false
+ubuntu1604cis_xwindows_required: true
 
 ubuntu1604cis_openldap_clients_required: false
 ubuntu1604cis_telnet_required: false
